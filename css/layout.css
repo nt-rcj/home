@@ -31,7 +31,7 @@ body { background: #000000; }
 
 #home {
    align-items: center;
-   background: #161415 url(https://github.com/nt-rcj/username.github.io/blob/main/image/Screenshot_20200204-231337.png?raw=true) no-repeat;
+   background: #161415 url(https://raw.githubusercontent.com/nt-rcj/username.github.io/main/image/Screenshot_20200204-231337.png) no-repeat;
    background-position: 50% 50%;
    background-size: cover;
    display: flex;
