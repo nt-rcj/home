@@ -174,7 +174,7 @@ body { background: #000000; }
    margin: 0;
    color: transparent;/*透明にして背景が見えるようにする*/
    -webkit-text-fill-color: transparent;
-   background: url(../images/home-back1.png); /*背景の指定*/
+   background: url(https://raw.githubusercontent.com/nt-rcj/username.github.io/main/image/home-back1.png); /*背景の指定*/
    -webkit-background-clip: text;/*テキストでマスク*/
    background-clip: text;/*テキストでマスク*/
    -webkit-animation: bgAnim 20s alternate infinite ease-in-out;
