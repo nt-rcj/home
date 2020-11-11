@@ -69,9 +69,9 @@ body { background: #000000; }
    content: '';
    position: absolute;
    left: 50%;
-   bottom: -10px; /*下線の上下位置調整*/
+   bottom: -5px; /*下線の上下位置調整*/
    display: inline-block;
-   width: 20%; /*下線の幅*/
+   width: 5%; /*下線の幅*/
    height: 1px; /*下線の太さ*/
    -moz-transform: translateX(-50%);
    -webkit-transform: translateX(-50%);
